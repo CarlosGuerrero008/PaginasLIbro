@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-kbuimw*udwmp5_^e&8eq!m3ke)yf#utpjmclqma48m!p)b=s%y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mylibreria.azurewebsites.net', '127.0.0.1']
+ALLOWED_HOSTS = ['paginalibreria.azurewebsites.net', '127.0.0.1']
 
 
 # Application definition
